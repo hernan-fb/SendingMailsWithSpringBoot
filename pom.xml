@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.api.email</groupId>
-	<artifactId>SendingMailWithSpringBoot</artifactId>
+	<artifactId>SendingMailsWithSpringBoot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>EmailSender</name>
 	<description>EmailSender</description>
